@@ -1,9 +1,9 @@
 # My-Certificates
-Certificates/Proof of Work:
+🏅Certificates/Proof of Work🏅
 
-Web Development/Copywriting
+💻⌨️Web Development/Copywriting
  --Mary Poppins Playschool
 
-Web Development Internship
+🖥️🏅Web Development Internship
  --Devtown
 
